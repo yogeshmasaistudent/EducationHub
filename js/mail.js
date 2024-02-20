@@ -49,5 +49,3 @@ function failure() {
 }
 
 // d9edf392-bffd-4fa3-9d98-b2566146073d => token1
-
-// service id = service_f3etz3t
